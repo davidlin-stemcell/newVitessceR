@@ -1,4 +1,4 @@
-Package: vitessceR
+Package: newVitessceR
 Type: Package
 Title: Create Interactive Single-cell Visualizations with the 'Vitessce' JavaScript Library
 Version: 0.99.0
