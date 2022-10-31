@@ -190,5 +190,5 @@ Component <- list(
   HIGLASS = "higlass",
   CELL_SET_SIZES = "cellSetSizes",
   GENES = "genes",
-  CELL_SET_EXPRESSION = "cellSetExpression", "Expression levels are displayed by cell set"
+  CELL_SET_EXPRESSION = "cellSetExpression"
 )
